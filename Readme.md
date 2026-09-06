@@ -72,8 +72,8 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 00                | 24/03/2026 | Concluído  | [MVP](https://youtu.be/_QScS_bP4Fg)
-| 01                | 28/04/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp1.md)  |
-| 02                | 26/05/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp2.md)  |
-| 03                | 16/06/2026 | Concluído  | [MVP](https://github.com/LucasSilva59/Projeto-API-3-Semestre/blob/main/MVP/sp3.md)  |
-| Feira de Soluções | 25/06/2026 | Concluído  | [MVP](#)  |
+| 00                | 02/09/2026 | Concluído  | [MVP](https://youtu.be/9Wz9cjv0Y-4?si=7GpXw8TLsedtJnFp)
+| 01                | 30/09/2026 | Em andamento  | [MVP]()  |
+| 02                | 28/10/2026 | Planejando  | [MVP]()  |
+| 03                | 25/11/2026 | Planejando  | [MVP]()  |
+| Feira de Soluções | 03/12/2026 | Planejando  | [MVP](#)  |
