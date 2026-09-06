@@ -26,11 +26,11 @@ Este projeto tem como objetivo o desenvolvimento de uma solução em Business In
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence focada na análise integrada de segurança viária no Brasil, visando:
-* Integrar diferentes bases de dados públicas, incluindo PRF, SENATRAN e IBGE;
-* Analisar os indicadores de sinistralidade no trânsito, com foco em veículos pesados;
-* Desenvolver um dashboard interativo em Power BI com métricas comparativas nacionais e estaduais (como mortalidade e severidade);
-* Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes;
+Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligence focada na gestão, controle e análise do estoque de materiais de manutenção da CPTM, visando:
+* Integrar e organizar as diferentes bases de dados brutas obtidas do ERP ALVO, como cadastros de materiais, movimentações históricas, saldos e centros de custo;
+* Analisar os indicadores de desempenho do estoque da CPTM, com foco na velocidade de rotatividade (giro), estoque médio e o valor total do capital imobilizado;
+* Desenvolver um dashboard interativo no Power BI com visões gerenciais e operacionais, incluindo uma versão otimizada para visualização rápida em celulares e tablets;
+* Implementar um sistema automático de classificação de importância e alertas visuais de risco para identificar materiais parados há muito tempo, em excesso ou com risco de falta para a manutenção das frotas de trens.
   
 
 
