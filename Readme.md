@@ -1,6 +1,6 @@
 #   SpeedWagon Logistics
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -36,15 +36,15 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 ## Tecnologias Utilizadas
 
-* Power BI
-* Google Drive
-* ScreenToGif
-* Python (Colab)
-* Canva
-* Pacote Office
-* Whatsapp
-* Discord
-* NotebookLM
+* Power BI;
+* Google Drive;
+* ScreenToGif;
+* Python (Colab);
+* Canva;
+* Pacote Office;
+* Whatsapp;
+* Discord;
+* NotebookLM.
 
 
 
