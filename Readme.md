@@ -1,4 +1,4 @@
-#   NexusLog - Conectando dados e decições inteligentes
+#   Speedwagon logistics
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -11,15 +11,18 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para a análise integrada de segurança viária no Brasil. A proposta inclui a criação de dashboards interativos em Power BI que integrem diferentes bases de dados públicas — como PRF, SENATRAN e IBGE — permitindo realizar análises estatísticas de indicadores de sinistralidade no trânsito, com foco em veículos pesados.
+Este projeto tem como objetivo o desenvolvimento de uma solução em Business Intelligence voltada para o controle, análise e acompanhamento da evolução e giro de estoque de materiais na CPTM. A proposta inclui a criação de dashboards interativos em Power BI que organizem e integrem as bases de dados do ERP ALVO — como os relatórios de cadastro de materiais, saldos físicos e movimentações históricas —, permitindo analisar indicadores de rotatividade, impacto financeiro e riscos operacionais, com foco na prevenção de falta de peças para a manutenção dos trens e na redução de capital parado.
 
 # Equipe
 |  Função        |  Nome               | Linkedln & GitHub |
 |------------------|----------------------|------------------------------------------------------------------|
-|  Product Owner | Derick Fernandes Souta        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-souta-aa43813b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
-|  Dev Team     | Jonathan Wesley Ferreira da Silva      |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-wesley-ferreira-da-silva-55700a392/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
-|  Dev Team     | Loren Santos Uchoas         |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/loren-uchoas-b6a882263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |  |
-|  Scrum Master | Lucas Silva Daniel          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-0a5952382/?skipRedirect=true) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
+|  Scrum Master | Derick Fernandes Souta        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-souta-aa43813b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
+| Dev Team | Fabiano | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
+|  Product Owner     | Jonathan Wesley Ferreira da Silva      |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-wesley-ferreira-da-silva-55700a392/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
+| Dev Team | Julio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
+| Dev Team | Lucas Faria | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()
+|  Dev Team | Lucas Silva Daniel          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-0a5952382/?skipRedirect=true) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
+| Dev Team | Tiago | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]() |
 
 
 # Objetivo do Projeto
