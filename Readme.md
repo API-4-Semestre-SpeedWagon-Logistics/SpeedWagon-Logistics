@@ -53,17 +53,17 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-|1|Alta|Como Coordenador de Curso , quero que os dados da PRF, SENATRAN e IBGE sejam extraídos e feito um tratamento e filtragem no Google Colab usando Python, para garantir que o dashboard seja alimentado com informações integradas e confiáveis.|13|1|
-|2|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de mortalidade por 100 mil habitantes, para comparar a severidade e o desempenho entre os estados e a média nacional.|8|1|
-|3|Média|Como Diretor de Operações do ONSV, quero visualizar um dashboard no Power BI, para analisar de forma eficiente as informações das bases de dados.|5|1|
-|4|Baixa|Como Diretor de Operações do ONSV, quero um protótipo do dashboard final, para ter uma noção de como o Power BI ficará ao término do projeto.|3|1|
-|5|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores-chave de sinistros por 10 mil veículos, para comparar a severidade e o desempenho entre os estados e a média nacional.|8|2|
-|6|Alta|Como Diretor de Operações do ONSV, quero visualizar os indicadores macro de segurança viária consolidados em nível nacional/estadual, para ter um panorama geral e imediato da situação do Brasil.|5|2|
-|7|Alta|Como Diretor de Operações do ONSV, quero aplicar filtros interativos de cruzamento de dados por tipo de veículo (foco em pesados), estado e etc, para analisar a correlação entre o aumento da frota de veículos pesados e sinistros fatais.|3|2|
-|8|Alta|Como Diretor de Operações do ONSV, quero visualizar um mapa de calor do Brasil, para compreender visualmente os estados com maior quantidade de mortos.|8|2|
-|9|Alta|Como Diretor de Operações do ONSV, quero interagir com gráficos de tendência por estado, para compreender visualmente como os indicadores evoluíram temporalmente nos últimos anos (2024 e 2025).|13|3|
-|10|Alta|Como Diretor de Operações do ONSV, quero visualizar o comparativo entre estados e média nacional, para identificar rapidamente quais regiões apresentam índices críticos de sinistralidade e quais podem servir de referência em políticas de segurança no trânsito.|8|3|
-|11|Média|Como Diretor de Operações do ONSV, quero acessar um ranking de eficiência em segurança viária exclusivo para municípios com mais de 250 mil habitantes, para identificar quais cidades grandes possuem as melhores ou piores práticas.|13|3|
+|1|Alta|Como Gerente de Logística da CPTM, quero que os dados brutos das planilhas do ERP sejam limpos, organizados e conectados no Power BI, para que os relatórios não apresentem duplicidades ou informações erradas.|13|1|
+|2|Alta|Como Gerente de Logística da CPTM, quero visualizar um protótipo visual no papel ou ferramenta de design, para avaliar o visual dos gráficos e a distribuição das informações antes do início da construção do dasboard.|3|1|
+|3|Alta|Como Supervisor do Almoxarifado, quero pesquisar e filtrar informações por Almoxarifado, Período e Tipo de Material, para analisar apenas os dados do galpão pelo qual sou responsável.|3|1|
+|4|Alta|Como Gerente de Logística da CPTM, quero que o protótipo de design aprovado seja construído no Power BI contendo os cartões de Quantidade Total, Valor Imobilizado e Estoque Médio, para ver o início operacional do painel com números reais.|8|2|
+|5|Alta|Como Gerente de Logística da CPTM, quero gráficos que mostrem o histórico mensal de compras e consumos de materiais, para acompanhar o crescimento ou queda do capital investido ao longo do tempo.|5|2|
+|6|Alta|Como Analista de Compras, quero visualizar o ranking de custos de materiais e a classificação automática da Curva ABC por consumo, para focar as negociações de novos contratos nos materiais críticos.|5|2|
+|7|Média|Como Supervisor do Almoxarifado, quero acompanhar a velocidade de rotatividade (Giro) e o tempo médio que cada categoria de material fica guardada no galpão, para otimizar a ocupação do espaço físico.|3|2|
+|8|Alta|Como Supervisor do Almoxarifado, quero avisos visuais automáticos (alertas) de estoque parado há mais de 180 dias, estoque com risco de ruptura (falta) ou sobra de itens, para tomar decisões rápidas nas oficinas.|5|3|
+|9|Alta|Como Gerente de Logística da CPTM, quero acessar o painel em uma versão otimizada para celulares e tablets com navegação rápida de até 2 cliques, para acompanhar os indicadores durante vistorias. |13|3|
+|10|Alta|Como Analista de Compras, quero ver o nível de cobertura de estoque (em meses) e um gráfico de previsão de consumo de materiais para os próximos 3 meses, para programar as compras futuras e evitar surpresas. |8|3|
+|11|Média|Como Gerente de Logística da CPTM, quero receber um manual do usuário simples e uma lista explicativa dos dados do painel, para que meus colaboradores saibam usar e manter o dashboard funcionando de forma autônoma. |5|3|
 
 
 
