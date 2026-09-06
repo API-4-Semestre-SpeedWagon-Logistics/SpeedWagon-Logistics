@@ -36,7 +36,6 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
 * Google Drive
 * ScreenToGif
