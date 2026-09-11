@@ -55,14 +55,14 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 |1|Alta|Como Gerente de Logística da CPTM, quero que os dados brutos do ERP sejam limpos e estruturados, para garantir relatórios livres de duplicidades e erros.|13|1|
 |2|Alta|Como Gerente de Logística da CPTM, quero visualizar um protótipo do layout, para aprovar a distribuição visual das informações antes do desenvolvimento do dashboard.|3|1|
 |3|Alta|Como Supervisor do Almoxarifado, quero filtrar as informações por Almoxarifado, Período e Tipo de Material, para focar a análise exclusivamente nos dados do meu galpão.|3|1|
-|4|Alta|Como Gerente de Logística da CPTM, quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, para validar a operação do painel com dados reais.|8|2|
-|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo. |5|2|
-|6|Alta|Como Analista de Compras, quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo, para direcionar as negociações de novos contratos aos materiais mais críticos.|5|2|
-|7|Média|Como Supervisor do Almoxarifado, quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais, para otimizar o uso do espaço físico do galpão.|3|2|
-|8|Alta|Como Supervisor do Almoxarifado, quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso, para agilizar a tomada de decisão nas oficinas.|5|3|
-|9|Alta|Como Gerente de Logística da CPTM, quero acessar uma versão otimizada para dispositivos móveis com navegação rápida (até 2 cliques), para monitorar os indicadores de forma ágil durante as vistorias. |13|3|
-|10|Alta|Como Analista de Compras, quero visualizar a cobertura de estoque e a previsão de consumo para os próximos 3 meses, para planejar compras futuras com segurança e evitar surpresas. |8|3|
-|11|Média|Como Gerente de Logística da CPTM, quero receber um manual do usuário e um dicionário explicativo dos dados, para garantir que a equipe saiba operar e manter o dashboard com autonomia. |5|3|
+|4|Alta|Como Gerente de Logística da CPTM, quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, para validar a operação do painel com dados reais.|100|2|
+|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo. |100|2|
+|6|Alta|Como Analista de Compras, quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo, para direcionar as negociações de novos contratos aos materiais mais críticos.|100|2|
+|7|Média|Como Supervisor do Almoxarifado, quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais, para otimizar o uso do espaço físico do galpão.|100|2|
+|8|Alta|Como Supervisor do Almoxarifado, quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso, para agilizar a tomada de decisão nas oficinas.|100|3|
+|9|Alta|Como Gerente de Logística da CPTM, quero acessar uma versão otimizada para dispositivos móveis com navegação rápida (até 2 cliques), para monitorar os indicadores de forma ágil durante as vistorias. |100|3|
+|10|Alta|Como Analista de Compras, quero visualizar a cobertura de estoque e a previsão de consumo para os próximos 3 meses, para planejar compras futuras com segurança e evitar surpresas. |100|3|
+|11|Média|Como Gerente de Logística da CPTM, quero receber um manual do usuário e um dicionário explicativo dos dados, para garantir que a equipe saiba operar e manter o dashboard com autonomia. |100|3|
 
 
 
