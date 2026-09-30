@@ -63,6 +63,7 @@
 ## 📂 Anexos / Evidências
 💡 *Clique na imagem abaixo para abrir o relatório completo em PDF.*
 [![Prévia do Relatório](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/Capa%20do%20relat%C3%B3rio%20do%20MVP%201.png)](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Docs/Relat%C3%B3rio%20API%20-%20SpeedWagon%20Logistics%20-%20MVP%201.pdf)
+## Protótipo exemplar não funcional de um Dashboard
 ![Protótipo do Dashboard](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/Prot%C3%B3tipo%20PowerBI%20Imagem.jpeg)
 ![Dashboard Inícial](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/PowerBI%20imagem.png)
 ![Demonstração do Script Python 1](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%201%20FINAL.gif)
