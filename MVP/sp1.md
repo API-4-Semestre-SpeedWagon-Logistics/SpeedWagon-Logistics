@@ -66,7 +66,7 @@
 ## Protótipo exemplar não funcional de um Dashboard.
 ![Protótipo do Dashboard](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/Prot%C3%B3tipo%20PowerBI%20Imagem.jpeg)
 ## Protótipo de um site interativo visualizando os dados.  
-![Dashboard Inícial](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/PowerBI%20imagem.png)
+![Dashboard Inícial](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/WhatsApp%20Image%202026-09-30%20at%2012.18.13.jpeg)
 ## Analise e filtragem dos arquivos da CPTM
 ![Demonstração do Script Python 1](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%201%20FINAL.gif)
 
