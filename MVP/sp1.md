@@ -61,6 +61,13 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+![Protótipo do Dashboard](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/Prot%C3%B3tipo%20PowerBI%20Imagem.jpeg)
+![Dashboard Inícial](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/PowerBI%20imagem.png)
+![Demonstração do Script Python 1](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%201%20FINAL.gif)
+![Demonstração do Script Python 2,3,4](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%202%2C%203%2C%204%20FINAL.gif)
+![Demonstração do Script Python 5](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%205%20FINAL.gif)
+![Demonstração do Script Python 6](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%206%20FINAL.gif)
+![Demonstração do Script Python 7](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%207%20FINAL.gif)
+![Demonstração do Script Python 8](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%208%20FINAL.gif)
+![Demonstração do Script Python 9](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%209%20FINAL.gif)
+![Demonstração do Script Python 10](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/GIFS/ARQUIVO%2010%20FINAL.gif)
