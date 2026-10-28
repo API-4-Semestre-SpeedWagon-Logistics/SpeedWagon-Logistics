@@ -48,9 +48,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize e interaja com o dashboard implementado no Power BI (e na sua versão em site), analisando com dados reais os indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio. 
+- O sistema deve registrar o cálculo correto e a exibição gráfica do histórico mensal de compras e consumo, além da classificação automática da Curva ABC e do tempo médio de permanência. 
+- Métricas coletadas: Quantidade Total, Valor Imobilizado, Estoque Médio, classificação da Curva ABC por consumo, giro de estoque e tempo médio de permanência dos materiais.
 
 ---
 
