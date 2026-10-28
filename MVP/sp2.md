@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - SpeedWagon Logistics
 
 ## 🎯 Objetivo do MVP
 > O objetivo é resolver a falta de visibilidade sobre os indicadores financeiros e de rotatividade do estoque da CPTM. Dessa forma, validamos a hipótese de que a implementação do layout no Power BI com dados reais e a sua disponibilização em uma versão web permitem monitorar efetivamente a evolução do capital investido e a criticidade dos materiais. O valor final é entregar aos gestores um dashboard funcional com indicadores de Valor Imobilizado, Curva ABC e Giro de Estoque, garantindo uma base interativa para direcionar negociações de contratos e otimizar o espaço físico dos galpões. 
