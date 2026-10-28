@@ -55,9 +55,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+> Desenvolver um site que simule um dashboard de forma automatizada.
 
 ---
 
