@@ -55,10 +55,11 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 |1|Alta|Como Gerente de Logística da CPTM, quero que os dados brutos do ERP sejam limpos e estruturados, para garantir relatórios livres de duplicidades e erros.|13|1|
 |2|Alta|Como Gerente de Logística da CPTM, quero visualizar um protótipo do layout, para aprovar a distribuição visual das informações antes do desenvolvimento do dashboard.|3|1|
 |3|Alta|Como Supervisor do Almoxarifado, quero filtrar as informações por Almoxarifado, Período e Tipo de Material, para focar a análise exclusivamente nos dados do meu galpão.|3|1|
-|4|Alta|Como Gerente de Logística da CPTM, quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, para validar a operação do painel com dados reais.|100|2|
-|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo. |100|2|
-|6|Alta|Como Analista de Compras, quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo, para direcionar as negociações de novos contratos aos materiais mais críticos.|100|2|
-|7|Média|Como Supervisor do Almoxarifado, quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais, para otimizar o uso do espaço físico do galpão.|100|2|
+|4|Alta|Como Gerente de Logística da CPTM, quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, para validar a operação do painel com dados reais.|5|2|
+|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo. |5|2|
+|6|Alta|Como Analista de Compras, quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo, para direcionar as negociações de novos contratos aos materiais mais críticos.|8|2|
+|7|Alta|Como Gerente de Logística da CPTM, quero que o dashboard tenha uma versão em um site, para ampliar minhas possibilidades de soluções.|13|
+|7|Média|Como Supervisor do Almoxarifado, quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais, para otimizar o uso do espaço físico do galpão.|8|2|
 |8|Alta|Como Supervisor do Almoxarifado, quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso, para agilizar a tomada de decisão nas oficinas.|100|3|
 |9|Alta|Como Gerente de Logística da CPTM, quero acessar uma versão otimizada para dispositivos móveis com navegação rápida (até 2 cliques), para monitorar os indicadores de forma ágil durante as vistorias. |100|3|
 |10|Alta|Como Analista de Compras, quero visualizar a cobertura de estoque e a previsão de consumo para os próximos 3 meses, para planejar compras futuras com segurança e evitar surpresas. |100|3|
@@ -72,7 +73,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 00                | 02/09/2026 | Concluído  | [MVP](https://youtu.be/9Wz9cjv0Y-4?si=7GpXw8TLsedtJnFp)
-| 01                | 30/09/2026 | Em andamento  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp1.md)  |
-| 02                | 28/10/2026 | Planejando  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp2.md)  |
+| 01                | 30/09/2026 |   Concluída  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp1.md)  |
+| 02                | 30/10/2026 | Em andamento  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp2.md)  |
 | 03                | 25/11/2026 | Planejando  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | Planejando  | [MVP](#)  |
