@@ -1,18 +1,12 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O objetivo é resolver a falta de visibilidade sobre os indicadores financeiros e de rotatividade do estoque da CPTM. Dessa forma, validamos a hipótese de que a implementação do layout no Power BI com dados reais e a sua disponibilização em uma versão web permitem monitorar efetivamente a evolução do capital investido e a criticidade dos materiais. O valor final é entregar aos gestores um dashboard funcional com indicadores de Valor Imobilizado, Curva ABC e Giro de Estoque, garantindo uma base interativa para direcionar negociações de contratos e otimizar o espaço físico dos galpões. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa, focaremos na implementação do layout aprovado no Power BI utilizando dados reais, bem como na disponibilização de uma versão do dashboard integrada em um site. A ferramenta incluirá, como funcionalidades principais, os indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, acompanhados por gráficos de histórico mensal, classificação automática da Curva ABC e o cálculo do giro de estoque. A principal limitação conhecida nesta fase é a ausência de alertas visuais automáticos para riscos de ruptura, excesso ou material parado, bem como a falta de otimização para dispositivos móveis. Por fim, o escopo foi reduzido para garantir apenas o funcionamento e a precisão dos cálculos financeiros e de rotatividade na versão web, validando o núcleo analítico da ferramenta antes de se avançar para os sistemas de alerta e previsão da última sprint.
 
 ---
 
@@ -55,9 +49,9 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de utilizadores que testaram o MVP (Validação com Stakeholders): Número de apresentações e rodadas de homologação realizadas com o cliente (CPTM) e orientadores para validar a precisão dos indicadores reais (Quantidade Total, Valor Imobilizado, Estoque Médio e Curva ABC) implementados no Power BI e na sua nova versão em site.
+- Feedback qualitativo (Avaliação de Usabilidade e Clareza): Coleta de perceções (positivas/negativas) dos utilizadores finais (como o Gerente de Logística e o Supervisor do Almoxarifado) sobre a facilidade de navegação no dashboard e a clareza na interpretação dos gráficos de histórico mensal de compras/consumo e do giro de stock.  
+- Indicadores de negócio (Aderência aos Objetivos de Negócio): Capacidade técnica do MVP em calcular corretamente o giro de stock, o tempo médio de permanência e o valor total do capital imobilizado, comprovando que a ferramenta entrega a base analítica necessária para futuras ações de redução de custos e otimização do espaço físico dos galpões.
 
 ---
 
