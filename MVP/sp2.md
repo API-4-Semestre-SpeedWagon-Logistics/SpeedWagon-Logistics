@@ -37,8 +37,13 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | quero que os dados brutos do ERP sejam limpos e estruturados   | Concluído|
+| 02     |quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio | Em andamento |
+|02|quero gráficos do histórico mensal de compras e consumo |Em andamento|
+|02|quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo |Em andamento|
+|02|quero que o dashboard tenha uma versão em um site |Em andamento|
+|02|quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais| Em andamento|
+|03|quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso|Em andamento|
 
 ---
 
