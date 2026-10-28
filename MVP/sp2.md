@@ -63,6 +63,10 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+## Dashboard:
+![Dashboard](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/PowerBIV.2%20imagem%201.png)
+![Dashboard](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/PowerBIV.2%20imagem%202.png)
+
+Link para Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjRkN2Y3ZDYtNjhkOS00OGY3LWI5NTItMTQyY2I0OTgwMTg4IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
+---
