@@ -77,31 +77,31 @@ Arquivo 1 (PROD)
 Link para Colab: https://colab.research.google.com/drive/1sQgu845iXDPRHUTF8cQkv-3x4CsgcowH?usp=sharing
 
 Arquivo 2 (RES43_Essencial - RES43_Estratégico - RES43_Normal)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%202%20(RES43_Essencial%20-%20RES43_Estrat%C3%A9gico%20-%20RES43_Normal).png)
 Link para Colab: https://colab.research.google.com/drive/1kZ3c7ghSoHggdqpJoPV3WByxD5n_KnET?usp=sharing
 
 Arquivo 3 (Centro de Custo)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%203%20(CENTRO%20DE%20CUSTO).png)
 Link para Colab: https://colab.research.google.com/drive/1rGnKmsb7LvsVNKtWFqdj0HRWaO8B4J6R?usp=sharing | https://colab.research.google.com/drive/1Kr7tE3N-6oDRew83fr0dr1QZvt7NXvwo?usp=sharing
 
 Arquivo 4 (RES34)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%204%20(RES34).png)
 Link para Colab: https://colab.research.google.com/drive/1lPD6SQuPy_I5L_0Rl_myk1eJDmM730qV?usp=sharing | https://colab.research.google.com/drive/1kWIE_-K3Y9h_PcBG3ztQBQ0j-C8D8g89?usp=sharing
 
 Arquivo 5 (RES47)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%205%20(RES47).png)
 Link para Colab: https://colab.research.google.com/drive/1SduKcvu-BnOcem624wgzZ2yc4SGkIW9e?usp=sharing | https://colab.research.google.com/drive/1KDXzkfZt1jRvLz-J8h_wL1ZdLwYSJfN6?usp=sharing
 
 Arquivo 6 (RES75)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%206%20(RES75).png)
 Link para Colab: https://colab.research.google.com/drive/1NgMPrMBc1V5AMzW2QOMsJ2dj6CigcQC_?usp=sharing | https://colab.research.google.com/drive/19b1j2DCzXPrneDgRTPvaseL1ITNHj02N?usp=sharing
 
 Arquivo 7 (RES82)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%207%20(RES82).png)
 Link para Colab: https://colab.research.google.com/drive/1kmw4VGytB0tOSg3VwGDcN2WDy33_zqPS?usp=sharing | https://colab.research.google.com/drive/1xaDCr47KkA4ay4kartQ3cyMXiPqQETTO?usp=sharing | https://colab.research.google.com/drive/1t2OOSuHjiqM8bLcHQTcyYhT3nzxvRlyI?usp=sharing
 
 Arquivo 8 (Movimentações Materias)
-![Colab]()
+![Colab](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/ARQUIVO%208%20(MOVIMENTA%C3%87%C3%95ES%20MATERIAIS).png)
 Link para Colab: https://colab.research.google.com/drive/12zrrJxMu64-Wu9RUi9vmbNd_I-ALWbvo?usp=sharing | https://colab.research.google.com/drive/1tTH7-5jTcVtbSp9E74HvMv0CpUawpTKA?usp=sharing
 
 ---
