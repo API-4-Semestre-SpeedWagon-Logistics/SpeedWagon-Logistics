@@ -42,16 +42,16 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualize alertas visuais de estoque parado há mais de 180 dias, excesso ou risco de ruptura, consulte a previsão de consumo para os próximos 3 meses e acesse o painel em dispositivos móveis com navegação rápida (até 2 cliques).  
+- O sistema deve registrar o cálculo automatizado da cobertura de estoque e das projeções de demanda, além de disponibilizar o manual do usuário e o dicionário explicativo dos dados para garantir a operação autônoma. 
+- Métricas coletadas: Cobertura de estoque (dias), previsão de consumo trimestral, quantidade de itens em alerta crítico (parados >180 dias, ruptura ou excesso) e tempo/cliques de navegação na interface mobile.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (CPTM) e orientadores para aprovar os alertas visuais de risco, as projeções de consumo para 3 meses, a versão mobile e a documentação final (manual e dicionário de dados).  
+- Avaliação de Usabilidade e Clareza: Coleta de percepções (feedback qualitativo) sobre a agilidade da navegação na interface mobile (em até 2 cliques) durante as vistorias, a clareza dos alertas de estoque parado ou ruptura e a compreensão do manual do usuário.  
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em antecipar necessidades de reposição por meio da cobertura e previsão trimestral, prevenir paradas na manutenção das oficinas e garantir total autonomia da equipe na operação e manutenção do painel. 
 
 ---
 
