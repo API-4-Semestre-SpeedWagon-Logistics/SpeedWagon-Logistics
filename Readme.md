@@ -45,6 +45,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 * Whatsapp;
 * Discord;
 * Gemini Notebook
+* Base 44
 
 
 
