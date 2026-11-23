@@ -56,7 +56,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 |2|Alta|Como Gerente de Logística da CPTM, quero visualizar um protótipo do layout, para aprovar a distribuição visual das informações antes do desenvolvimento do dashboard.|3|1|
 |3|Alta|Como Supervisor do Almoxarifado, quero filtrar as informações por Almoxarifado, Período e Tipo de Material, para focar a análise exclusivamente nos dados do meu galpão.|3|1|
 |4|Alta|Como Gerente de Logística da CPTM, quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio, para validar a operação do painel com dados reais.|5|2|
-|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo. |5|2|
+|5|Alta|Como Gerente de Logística da CPTM, quero gráficos do histórico mensal de compras e consumo, para monitorar a evolução do capital investido ao longo do tempo.|5|2|
 |6|Alta|Como Analista de Compras, quero visualizar o ranking de custos e a classificação automática da Curva ABC por consumo, para direcionar as negociações de novos contratos aos materiais mais críticos.|8|2|
 |7|Alta|Como Gerente de Logística da CPTM, quero que o dashboard tenha uma versão em um site, para ampliar minhas possibilidades de soluções.|13| 2|
 |8|Média|Como Supervisor do Almoxarifado, quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais, para otimizar o uso do espaço físico do galpão.|8|2|
