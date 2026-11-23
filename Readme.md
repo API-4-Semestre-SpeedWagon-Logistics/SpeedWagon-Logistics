@@ -18,7 +18,7 @@ Este projeto tem como objetivo o desenvolvimento de uma solução em Business In
 |------------------|----------------------|------------------------------------------------------------------|
 |  Scrum Master | Derick Fernandes Souta        |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-souta-aa43813b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |  |
 | Dev Team | Fabiano Almeida Cardoso de Souza | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-almeida-854646386/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiano1301) |
-|  Dev Team     | Jonathan Wesley Ferreira da Silva      |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-wesley-ferreira-da-silva-55700a392/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
+|  Dev Team     | Jonathan Wesley Ferreira da Silva |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-wesley-ferreira-da-silva-55700a392/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |  |
 | Dev Team | Julio Eduardo Bustamante Mancisidor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/julio-eduardo-bustamante-mancisidor-753576387) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mancisidor2024) |
 | Product Owner  | Lucas Daniel da Silva Faria | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-daniel-0349b83bb?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasDaniel7777)
 |  Dev Team | Lucas Silva Daniel          |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-0a5952382/?skipRedirect=true) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |  |
@@ -44,7 +44,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 * Pacote Office;
 * Whatsapp;
 * Discord;
-* NotebookLM.
+* Gemini Notebook
 
 
 
@@ -73,7 +73,7 @@ Este projeto tem como objetivo desenvolver uma ferramenta de Business Intelligen
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 00                | 02/09/2026 | Concluído  | [MVP](https://youtu.be/9Wz9cjv0Y-4?si=7GpXw8TLsedtJnFp)
-| 01                | 30/09/2026 |   Concluída  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp1.md)  |
-| 02                | 30/10/2026 | Concluída  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp2.md)  |
-| 03                | 27/11/2026 | Em andamento  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp3.md)  |
+| 01                | 30/09/2026 | Concluído  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp1.md)  |
+| 02                | 30/10/2026 | Concluído  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp2.md)  |
+| 03                | 27/11/2026 | Concluído  | [MVP](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | Planejando  | [MVP](#)  |
