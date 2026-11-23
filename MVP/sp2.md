@@ -56,9 +56,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+Otimizar site desenvolvido nessa sprint.
 
 ---
 
