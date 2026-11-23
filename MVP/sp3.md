@@ -1,18 +1,12 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - SpeedWagon Logistics
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> O objetivo é resolver a demora na identificação de riscos operacionais e a dificuldade de acesso rápido aos indicadores durante as vistorias em campo. Dessa forma, validamos a hipótese de que alertas visuais automatizados, projeções de demanda e uma interface otimizada para dispositivos móveis agilizam a tomada de decisão preventiva. O valor entregue é uma solução completa, mobile e autônoma, que permite prever o consumo dos próximos 3 meses, evitar paradas na manutenção e capacitar a equipe através de um manual e dicionário de dados.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Nesta etapa, focaremos nas entregas finais de inteligência analítica e documentação da plataforma. Como funcionalidades principais, o MVP entregará alertas visuais, previsão de consumo para os próximos 3 meses, versão mobile com navegação rápida, além do manual do usuário e dicionário de dados. A principal limitação conhecida é que as projeções baseiam-se em histórico estático, sem conexão automática em tempo real com o ERP ALVO. Por fim, o escopo foi reduzido para garantir apenas a visibilidade preventiva, a mobilidade e a autonomia da equipe na operação do painel.  
 
 ---
 
