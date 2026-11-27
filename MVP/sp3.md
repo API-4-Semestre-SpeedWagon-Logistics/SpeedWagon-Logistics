@@ -56,7 +56,7 @@
 ---
 
 ## 🚀 Próximos Passos
-Preparação para a Feira de Soluções
+- Preparação para a Feira de Soluções
 
 ---
 
