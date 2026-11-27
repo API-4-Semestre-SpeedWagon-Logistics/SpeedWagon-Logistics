@@ -2,7 +2,7 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-💡 *Clique na imagem abaixo para abrir o relatório completo em PDF.*
+💡 *Clique na imagem abaixo para abrir a visão geral do projeto.*
 [![Prévia do Relatório](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/SITE%20APRESENTA%C3%87%C3%83O.png)](https://api-4-semestre-speedwagon-logistics.github.io/Speedwagonwebsite/)
 
 # Índice
