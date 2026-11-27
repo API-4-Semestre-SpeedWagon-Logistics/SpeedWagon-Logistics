@@ -33,10 +33,10 @@
 | 01     | quero que os dados brutos do ERP sejam limpos e estruturados                       | Concluído|
 | 02     | quero que o layout aprovado seja implementado no Power BI com indicadores de Quantidade Total, Valor Imobilizado e Estoque Médio                          | Concluído |
 | 02     | quero acompanhar o giro de estoque e o tempo médio de permanência dos materiais                          | Concluído |
-| 03     | quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso                           | Em andamento |
-| 03     | quero acessar uma versão otimizada para dispositivos móveis com navegação rápida (até 2 cliques)                           | Em andamento |
-| 03     | quero visualizar a cobertura de estoque e a previsão de consumo para os próximos 3 meses                           | Em andamento |
-| 03     | quero receber um manual do usuário e um dicionário explicativo dos dados                         | Em andamento |
+| 03     | quero receber alertas visuais sobre estoque parado há mais de 180 dias, risco de ruptura ou excesso                           | Concluído |
+| 03     | quero acessar uma versão otimizada para dispositivos móveis com navegação rápida (até 2 cliques)                           | Concluído |
+| 03     | quero visualizar a cobertura de estoque e a previsão de consumo para os próximos 3 meses                           | Concluído |
+| 03     | quero receber um manual do usuário e um dicionário explicativo dos dados                         | Concluído |
 
 
 ---
