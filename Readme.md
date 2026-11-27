@@ -5,6 +5,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 💡 *Clique na imagem abaixo para abrir a visão geral do projeto.*
 [![Prévia do Relatório](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/SITE%20APRESENTA%C3%87%C3%83O.png)](https://api-4-semestre-speedwagon-logistics.github.io/Speedwagonwebsite/)
 
+💡 *Clique na imagem abaixo para abrir a solução do projeto.*
+[![Prévia do Relatório](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/SITE%20V2.png)](https://magic-cptm-insight-flow.base44.app/)
+
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
