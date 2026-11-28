@@ -82,4 +82,4 @@ Link para Visão Geral do Projeto: [https://api-4-semestre-speedwagon-logistics.
     <img src="https://img.youtube.com/vi/uxDdKXj6fBc/hqdefault.jpg" alt="Assista ao vídeo" width="600" />
   </a>
 </p>
----
+
