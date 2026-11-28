@@ -76,7 +76,7 @@ Link para Visão Geral do Projeto: [https://api-4-semestre-speedwagon-logistics.
 [![Prévia do Relatório](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Imagens/Capa%20do%20relat%C3%B3rio%20do%20MVP%201.png)](https://github.com/API-4-Semestre-SpeedWagon-Logistics/SpeedWagon-Logistics/blob/main/Docs/Relat%C3%B3rio%20API%20-%20SpeedWagon%20Logistics%20-%20MVP%203.pdf)
 ---
 
-## Vídeo do MVP
+## Vídeo do MVP (Clique na imagem abaixo para assistir)
 <p align="center">
   <a href="https://youtu.be/uxDdKXj6fBc" target="_blank">
     <img src="https://img.youtube.com/vi/uxDdKXj6fBc/hqdefault.jpg" alt="Assista ao vídeo" width="600" />
