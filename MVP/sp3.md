@@ -78,8 +78,8 @@ Link para Visão Geral do Projeto: [https://api-4-semestre-speedwagon-logistics.
 
 ## Vídeo do MVP (Clique na imagem abaixo para assistir)
 <p align="center">
-  <a href="https://youtu.be/uxDdKXj6fBc" target="_blank">
-    <img src="https://img.youtube.com/vi/uxDdKXj6fBc/hqdefault.jpg" alt="Assista ao vídeo" width="600" />
+  <a href="https://youtu.be/zVHiVFKBAwI" target="_blank">
+    <img src="https://img.youtube.com/vi/zVHiVFKBAwI/hqdefault.jpg" alt="API 4°Semestre de Logística - Apresentação Final." width="600" />
   </a>
 </p>
 
